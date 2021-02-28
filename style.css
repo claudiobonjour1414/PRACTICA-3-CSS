@@ -1,0 +1,22 @@
+
+@font-face {font-family: PottaOne; src: url(FONT/PottaOne-Regular.ttf);}
+
+@font-face {font-family: YuseiMagic; src: url(FONT/YuseiMagic-Regular.ttf);}
+
+
+header {font-family: 'PottaOne',sans-serif;color: yellow;background-color: blue; font-size: 150%;
+text-align: center; width:75%; font-weight: bold;}
+
+div.div1{background-color: rgb(31, 119, 157); height: 120px; color: white; width: 25%; float:left; line-height: 150%;}
+
+div.div2{display: inline; line-height: 200%; color:yellow; background-color: black;}
+
+hr.hr1{width: 50%;}
+
+section.separador{clear: both; background-color: blue; width: 75%; height: 15px;}
+
+div.tutors{font-family: 'Coda Caption',sans-serif;font-size:150% ; font-weight: bold; line-height: 150%;}
+
+div.ada{font-family:'YuseiMagic'; font-size: 150%;font-weight: bold; line-height: 150%;}
+
+
